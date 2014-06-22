@@ -1,4 +1,21 @@
 name: ServerSystem
 main: serverSystem/serverSystem
 version: 1.0.0
+apiversion: [1.0.0]
 author: VAFLife_
+authors: VAFLife_
+description: This Plugin Help Money System Or Building Countries.
+command: 
+가이드:
+discription: Server Gide
+usage: "Usage: /돈, /파벌 를 쳐보세요."
+permision: system.command.gide
+돈:
+discription: Server Money System
+usage: "Usage: /돈, /돈 보기, /돈 부자 를 쳐 보세요"
+permision: system.command.money
+국가:
+discription: Server Country Guide
+usage: "Usage: /파벌, /파벌 보기, /파벌, /파벌 가입, /파벌 땅 을 쳐보세요"
+permision: system.command.country
+
